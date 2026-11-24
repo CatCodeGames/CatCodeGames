@@ -4,14 +4,14 @@
 Focused on client/meta architecture, memory & CPU optimization, clean APIs, and designer-friendly tooling.
 
 ### Open-Source Unity UPM Packages
-| Package | Focus |
-|---|---|
-| [UniLoop](https://github.com/CatCodeGames/UniLoop) | Zero-allocation PlayerLoop execution without MonoBehaviour |
-| [AudioSystem](https://github.com/CatCodeGames/AudioSystem) | Modular audio management with safe resource handling & clean API |
-| [IntervalTimers](https://github.com/CatCodeGames/IntervalTimers) | Drift-free high-precision timers powered by UniTask |
-| [EventPrimitives](https://github.com/CatCodeGames/EventPrimitives) | Lightweight event primitives with minimal overhead |
-| [Commands](https://github.com/CatCodeGames/Commands) | Command queues for clean sequential flows & designer-friendly scenarios |
-| [UIParticleSystem](https://github.com/CatCodeGames/UIParticleSystem) | Rendering ParticleSystem directly inside UGUI Canvas (no RenderTexture hacks) |
+| Package | Focus | Demo |
+|---|---|---|
+| [UniLoop](https://github.com/CatCodeGames/UniLoop) | Zero-allocation PlayerLoop execution without MonoBehaviour | - |
+| [AudioSystem](https://github.com/CatCodeGames/AudioSystem) | Modular audio management with safe resource handling & clean API | [Demo](https://catcodegames.github.io/AudioSystem/) |
+| [IntervalTimers](https://github.com/CatCodeGames/IntervalTimers) | Drift-free high-precision timers powered by UniTask | - |
+| [EventPrimitives](https://github.com/CatCodeGames/EventPrimitives) | Lightweight event primitives with minimal overhead | - |
+| [Commands](https://github.com/CatCodeGames/Commands) | Command queues for clean sequential flows & designer-friendly scenarios | - |
+| [UIParticleSystem](https://github.com/CatCodeGames/UIParticleSystem) | Rendering ParticleSystem directly inside UGUI Canvas (no RenderTexture hacks) | - |
 
 ### Technical Writing
 - **Blog:** [catcodegames.github.io](https://catcodegames.github.io/)
