@@ -1,16 +1,18 @@
-## Hi there 👋
+## Hi, I'm Dmitry — Senior Unity / C# Developer
 
-<!--
-**CatCodeGames/CatCodeGames** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+10+ years in Unity. Shipped F2P mobile (Google Play, App Store) and PC (Steam) titles.
+Focused on client/meta architecture, memory & CPU optimization, clean APIs, and designer-friendly tooling.
 
-Here are some ideas to get you started:
+### Open-Source Unity UPM Packages
+| Package | Focus |
+|---|---|
+| [UniLoop](https://github.com/CatCodeGames/UniLoop) | Zero-allocation PlayerLoop execution without MonoBehaviour |
+| [AudioSystem](https://github.com/CatCodeGames/AudioSystem) | Modular audio management with safe resource handling & clean API |
+| [IntervalTimers](https://github.com/CatCodeGames/IntervalTimers) | Drift-free high-precision timers powered by UniTask |
+| [EventPrimitives](https://github.com/CatCodeGames/EventPrimitives) | Lightweight event primitives with minimal overhead |
+| [Commands](https://github.com/CatCodeGames/Commands) | Command queues for clean sequential flows & designer-friendly scenarios |
+| [UIParticleSystem](https://github.com/CatCodeGames/UIParticleSystem) | Rendering ParticleSystem directly inside UGUI Canvas (no RenderTexture hacks) |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Technical Writing
+- **Blog:** [catcodegames.github.io](https://catcodegames.github.io/)
+- **Habr (80k+ views):** [Shaders, URP Renderer Features & Unity internals](https://habr.com/ru/users/ice_storm/articles/)
