@@ -8,7 +8,7 @@ Focused on client/meta architecture, memory & CPU optimization, clean APIs, and 
 |---|---|---|
 | [UniLoop](https://github.com/CatCodeGames/UniLoop) | Zero-allocation PlayerLoop execution without MonoBehaviour | - |
 | [AudioSystem](https://github.com/CatCodeGames/AudioSystem) | Modular audio management with safe resource handling & clean API | [Demo](https://catcodegames.github.io/AudioSystem/) |
-| [StatefulEffects](https://github.com/CatCodeGames/StatefulEffects) | Unified lifecycle API for show/hide transitions and one-shot effects | - |
+| [StatefulEffects](https://github.com/CatCodeGames/StatefulEffects) | Unified lifecycle API for show/hide transitions and one-shot effects | [Demo](https://catcodegames.github.io/StatefulEffects/) |
 | [IntervalTimers](https://github.com/CatCodeGames/IntervalTimers) | Drift-free high-precision timers powered by UniTask | - |
 | [EventPrimitives](https://github.com/CatCodeGames/EventPrimitives) | Lightweight event primitives with minimal overhead | - |
 | [Commands](https://github.com/CatCodeGames/Commands) | Command queues for clean sequential flows & designer-friendly scenarios | - |
